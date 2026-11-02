@@ -69,12 +69,6 @@ Stores movie rental transactions.
 - **ER Modeling:** Conceptual database design.
 - **Relational Database Design:** Mapping entities and relationships into relational tables.
 
-## Project Files
-
-- `Database.sql` – SQL script containing the database implementation.
-- `DB Lab Project.docx` – Original academic project documentation.
-- `ER Data Model.png` – Entity-Relationship diagram.
-- Database table screenshots – Visual documentation of the implemented tables.
 
 ## Team Collaboration
 
